@@ -5,3 +5,7 @@ it works by importting the excel file - store to database - and perform an speci
 you may notice that most of the code were not organize. This was the start of our programming industry
 
 Language - Mysql - C#
+
+Grade 12 ICT 
+
+TY dear classmates
